@@ -1,5 +1,5 @@
 xs script 简要说明
-（by 大大唐 Email 27261096@qq.com 微信公众号：ddyzyjy 大大游资网站 www.dadayouzi.com ）
+（by 大大唐 Email 27261096@qq.com 微信公众号：muouaicn www.muouai.cn ）
 （2019.08.09）
 
 这是多年前我编写的一个脚本语言，使用POSIX C编写，所以可以移植到几乎所有的系统，LINUX, ANDROID, IOS, MACOS, SYMBIAN, WINDOWS等等。
